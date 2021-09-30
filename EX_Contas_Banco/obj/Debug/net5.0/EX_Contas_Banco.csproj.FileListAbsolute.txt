@@ -1,0 +1,16 @@
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\bin\Debug\net5.0\EX_Contas_Banco.exe
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\bin\Debug\net5.0\EX_Contas_Banco.deps.json
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\bin\Debug\net5.0\EX_Contas_Banco.runtimeconfig.json
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\bin\Debug\net5.0\EX_Contas_Banco.runtimeconfig.dev.json
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\bin\Debug\net5.0\EX_Contas_Banco.dll
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\bin\Debug\net5.0\ref\EX_Contas_Banco.dll
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\bin\Debug\net5.0\EX_Contas_Banco.pdb
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\obj\Debug\net5.0\EX_Contas_Banco.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\obj\Debug\net5.0\EX_Contas_Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\obj\Debug\net5.0\EX_Contas_Banco.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\obj\Debug\net5.0\EX_Contas_Banco.AssemblyInfo.cs
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\obj\Debug\net5.0\EX_Contas_Banco.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\obj\Debug\net5.0\EX_Contas_Banco.dll
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\obj\Debug\net5.0\ref\EX_Contas_Banco.dll
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\obj\Debug\net5.0\EX_Contas_Banco.pdb
+C:\Users\andre\Desktop\PASTAS\C#\EX_Contas_Banco\EX_Contas_Banco\obj\Debug\net5.0\EX_Contas_Banco.genruntimeconfig.cache
